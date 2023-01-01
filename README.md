@@ -1,4 +1,4 @@
 # Smart-Elevator
 
 ***for running viola jones algorithm***:
-	open ViolaJones.ipnyb and run all cells
+	open detect/image.ipnyb and run all cells
